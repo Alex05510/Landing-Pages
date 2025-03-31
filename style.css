@@ -1,0 +1,75 @@
+body {
+    font-family: "roboto", serif;
+    padding: 0;
+    margin: 0;
+    margin-top: 10%;
+}
+
+header {
+    margin-right: 70%;
+    width: 15%;
+    height: auto;
+    margin-left: 25%;
+    width: 20%;
+    height: auto;
+    display: block;
+    /**display: inline-block;**/
+}
+
+
+img {
+    display:inline-block;
+}
+
+.container {
+     text-align: left;
+}
+
+.bloc {
+    width: 15%;
+    height: auto;
+    margin-left: 25%;
+    width: 12%;
+    height: auto;
+    display: inline-block;
+}
+
+.bloc-1 {
+    width: 15%;
+    height: auto;
+    margin-left: 2%;
+    width: 12%;
+    height: auto;
+    display: inline-block;
+}
+
+.bloc-2 {
+    width: 15%;
+    height: auto;
+    margin-left: 25%;
+    width: 12%;
+    height: auto;
+    display: inline-block;
+}
+
+.bloc-3 {
+    width: 15%;
+    height: auto;
+    margin-left: 2%;
+    width: 12%;
+    height: auto;
+    display: inline-block;
+}
+
+.litle-content {
+    font-size: small;
+}
+
+.title {
+    font-size: medium;
+}
+
+.phone {
+    margin-left: 55%;
+    margin-top: -35%;
+}
